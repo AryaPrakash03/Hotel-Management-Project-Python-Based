@@ -1,0 +1,9 @@
+These are the functions that have been created inside the project.
+
+Home()- Function to display the project’s main screen i.e. the home page of the project or you can say the main menu for selecting the desired operation to perform.
+Date(str)- Function to validate date entered by the user/customer.
+Booking()- Function for booking room in hotel by entering user/customer details.
+Room_Info()- Function to provide users/customers with hotel rooms information(i.e. about room amenities).
+Restaurant()- Function for room service which provides user/customer with the restaurant’s menu card to order food at the room.
+Payment()- Function for payment of hotel room and restaurant bill generation at the time of check-out.
+Record()- Function for keeping records of customers stayed in the hotel.
